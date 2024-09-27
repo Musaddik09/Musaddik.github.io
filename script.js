@@ -138,7 +138,7 @@ document.getElementById('studentForm').addEventListener('submit', function (even
                 }));
 
                 // Redirect to the 2nd website (MCQ Questions)
-                window.location.href = "2nd_website_mcq.html"; // Change to the actual URL of the 2nd website
+                window.location.href = "https://Musaddik09.github.io/second-website/"; // Change to the actual URL of the 2nd website
             }
         });
       //</s</b

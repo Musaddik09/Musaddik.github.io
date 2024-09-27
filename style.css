@@ -30,15 +30,18 @@ div {
 #box2 h2{
   text-align: center;
 }
+#roll, #name {
+  text-align: center;
+}
+label {
+  text-align: center;
+}
 #box3 input {
   margin-left: 10px;
   width: 150px;
   height: 20px;
   border-radius: 10px;
   text-align: center;
-}
-a {
-  margin-left: 250px;
 }
 button {
   background-color: rgb(51, 153, 255);
